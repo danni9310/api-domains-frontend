@@ -2,7 +2,7 @@
 
 # Frontend API domains
 
-API aimed to search information about different domains
+API aimed to search information for about different domains
 
 
 
@@ -10,7 +10,7 @@ Example:
 
 ![](https://i.gyazo.com/cac4914cb2a294b06cf5f9303d8bca8c.gif)
 
-- Install dependecies
+- Install dependencies
 
 `npm install`
 
