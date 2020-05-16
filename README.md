@@ -1,8 +1,10 @@
+![Logo](https://www.komarcalabs.com/images/vuejsColor.png)
+
 # Frontend API domains
 
 API aimed to search information about different domains
 
-![Logo](https://www.komarcalabs.com/images/vuejsColor.png)
+
 
 Example:
 
