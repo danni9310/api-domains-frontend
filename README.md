@@ -4,7 +4,7 @@ API aimed to search information about different domains
 
 ![Logo](https://www.komarcalabs.com/images/vuejsColor.png)
 
-## Example:
+Example:
 
 ![](https://i.gyazo.com/cac4914cb2a294b06cf5f9303d8bca8c.gif)
 
